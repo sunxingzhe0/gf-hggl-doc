@@ -1,0 +1,124 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "orderId",
+      "dataField": "orderId",
+      "fieldName": "编号",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "typeName",
+      "dataField": "typeName",
+      "fieldName": "任务类型",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "patientName",
+      "dataField": "patientName",
+      "fieldName": "服务对象",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "inHospNo",
+      "dataField": "inHospNo",
+      "fieldName": "住院号",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "bedNum",
+      "dataField": "bedNum",
+      "fieldName": "床号",
+      "fixed": true,
+      "sorted": true,
+      "index": 6
+    },
+    {
+      "field": "patientSex",
+      "dataField": "patientSex",
+      "fieldName": "性别",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "patientAge",
+      "dataField": "patientAge",
+      "fieldName": "年龄",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "contactPhone",
+      "dataField": "contactPhone",
+      "fieldName": "联系电话",
+      "fixed": true,
+      "sorted": false,
+      "index": 8
+    },
+    {
+      "field": "inHospTime",
+      "dataField": "inHospTime",
+      "fieldName": "入院时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 9
+    },
+    {
+      "field": "days",
+      "dataField": "days",
+      "fieldName": "护理时段",
+      "fixed": true,
+      "sorted": false,
+      "index": 10
+    },
+    {
+      "field": "startTime",
+      "dataField": "startTime",
+      "fieldName": "开始时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 11
+    },
+    {
+      "field": "endTime",
+      "dataField": "endTime",
+      "fieldName": "结束时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 12
+    },
+    {
+      "field": "nurseName",
+      "dataField": "nurseName",
+      "fieldName": "护理人员",
+      "fixed": true,
+      "sorted": false,
+      "index": 13
+    },
+    {
+      "field": "orderStatus",
+      "dataField": "orderStatus",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 14
+    }
+  ]
+}

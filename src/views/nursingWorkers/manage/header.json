@@ -1,0 +1,101 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "id",
+      "dataField": "id",
+      "fieldName": "编号",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "name",
+      "dataField": "name",
+      "fieldName": "姓名",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "phone",
+      "dataField": "phone",
+      "fieldName": "手机号",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    
+    {
+      "field": "groupName",
+      "dataField": "groupName",
+      "fieldName": "所属分组",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "bizList",
+      "dataField": "bizList",
+      "fieldName": "开通业务",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "sex",
+      "dataField": "sex",
+      "fieldName": "性别",
+      "fixed": true,
+      "sorted": false,
+      "index": 8
+    },
+    {
+      "field": "age",
+      "dataField": "age",
+      "fieldName": "年龄",
+      "fixed": true,
+      "sorted": false,
+      "index": 9
+    },
+    {
+      "field": "workNum",
+      "dataField": "workNum",
+      "fieldName": "工单数量",
+      "fixed": true,
+      "sorted": false,
+      "index": 10
+    },
+    {
+      "field": "bizStatus",
+      "dataField": "bizStatus",
+      "fieldName": "业务状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 11
+    },
+    {
+      "field": "status",
+      "dataField": "status",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 12
+    },
+    {
+      "field": "createTime",
+      "dataField": "createTime",
+      "fieldName": "创建时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 13
+    }
+  ]
+}

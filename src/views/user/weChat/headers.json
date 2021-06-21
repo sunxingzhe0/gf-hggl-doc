@@ -1,0 +1,68 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "name",
+      "dataField": "name",
+      "fieldName": "微信昵称",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "phone",
+      "dataField": "phone",
+      "fieldName": "手机号",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "sex",
+      "dataField": "sex",
+      "fieldName": "性别",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "birthday",
+      "dataField": "birthday",
+      "fieldName": "生日",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "nowAddress",
+      "dataField": "nowAddress",
+      "fieldName": "所在地区",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "firstLoginTime",
+      "dataField": "firstLoginTime",
+      "fieldName": "第一次登录时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "lastLoginTime",
+      "dataField": "lastLoginTime",
+      "fieldName": "最近一次登录时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 8
+    }
+  ]
+}

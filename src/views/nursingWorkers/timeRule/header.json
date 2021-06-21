@@ -1,0 +1,53 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "ruleName",
+      "dataField": "ruleName",
+      "fieldName": "规则名称",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "timeNum",
+      "dataField": "timeNum",
+      "fieldName": "时段数量",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "nspNum",
+      "dataField": "nspNum",
+      "fieldName": "当前应用人数",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "state",
+      "dataField": "state",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "createTime",
+      "dataField": "createTime",
+      "fieldName": "创建时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    }
+  
+  ]
+}

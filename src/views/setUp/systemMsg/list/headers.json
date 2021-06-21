@@ -1,0 +1,36 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "title",
+      "dataField": "title",
+      "fieldName": "消息标题",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "readed",
+      "dataField": "readed",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "sendTime",
+      "dataField": "sendTime",
+      "fieldName": "推送时间",
+      "fixed": true,
+      "sorted": true,
+      "index": 4
+    }
+  ]
+}

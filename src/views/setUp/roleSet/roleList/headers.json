@@ -1,0 +1,44 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "name",
+      "dataField": "name",
+      "fieldName": "角色",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "useAccountNumber",
+      "dataField": "useAccountNumber",
+      "fieldName": "使用账号",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "status",
+      "dataField": "status",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "createTime",
+      "dataField": "createTime",
+      "fieldName": "创建时间",
+      "fixed": true,
+      "sorted": true,
+      "index": 5
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "busName",
+      "dataField": "busName",
+      "fieldName": "业务名称",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "nspNum",
+      "dataField": "nspNum",
+      "fieldName": "护工数量",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "nature",
+      "dataField": "nature",
+      "fieldName": "属性",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "busDesc",
+      "dataField": "busDesc",
+      "fieldName": "业务描述",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "sortCode",
+      "dataField": "sortCode",
+      "fieldName": "排序",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "state",
+      "dataField": "state",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    }
+    
+  ]
+}

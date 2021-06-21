@@ -1,0 +1,61 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "account",
+      "dataField": "account",
+      "fieldName": "账号",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "roleList",
+      "dataField": "roleList",
+      "fieldName": "角色",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "name",
+      "dataField": "name",
+      "fieldName": "人员姓名",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    
+    {
+      "field": "phone",
+      "dataField": "phone",
+      "fieldName": "联系电话",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "status",
+      "dataField": "status",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "createTime",
+      "dataField": "createTime",
+      "fieldName": "创建时间",
+      "fixed": true,
+      "sorted": true,
+      "index": 8
+    }
+  ]
+}

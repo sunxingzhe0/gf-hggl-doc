@@ -1,0 +1,60 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "content",
+      "dataField": "content",
+      "fieldName": "评价",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "nurseScore",
+      "dataField": "nurseScore",
+      "fieldName": "评分",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "level",
+      "dataField": "level",
+      "fieldName": "满意度",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "userName",
+      "dataField": "userName",
+      "fieldName": "用户",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "createTime",
+      "dataField": "createTime",
+      "fieldName": "评价时间",
+      "fixed": true,
+      "sorted": true,
+      "index": 6
+    },
+    {
+      "field": "orderId",
+      "dataField": "orderId",
+      "fieldName": "预约单号",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    }
+  ]
+}

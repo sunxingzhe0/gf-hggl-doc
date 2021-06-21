@@ -1,0 +1,68 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "nspCode",
+      "dataField": "nspCode",
+      "fieldName": "编号",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "nspName",
+      "dataField": "nspName",
+      "fieldName": "护工姓名",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "nspPhone",
+      "dataField": "nspPhone",
+      "fieldName": "手机号",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "gender",
+      "dataField": "gender",
+      "fieldName": "性别",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "age",
+      "dataField": "age",
+      "fieldName": "年龄",
+      "fixed": true,
+      "sorted": true,
+      "index": 6
+    },
+    {
+      "field": "patientInfos",
+      "dataField": "patientInfos",
+      "fieldName": "服务对象",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "state",
+      "dataField": "state",
+      "fieldName": "当前状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    }
+  ]
+}

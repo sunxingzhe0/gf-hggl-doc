@@ -1,0 +1,76 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "billTime",
+      "dataField": "billTime",
+      "fieldName": "时间",
+      "fixed": true,
+      "sorted": true,
+      "index": 2
+    },
+    {
+      "field": "orderCount",
+      "dataField": "orderCount",
+      "fieldName": "预约笔数",
+      "fixed": true,
+      "sorted": true,
+      "index": 3
+    },
+    {
+      "field": "finalMoney",
+      "dataField": "finalMoney",
+      "fieldName": "成交金额",
+      "fixed": true,
+      "sorted": true,
+      "index": 4
+    },
+    {
+      "field": "onLineOrderCount",
+      "dataField": "onLineOrderCount",
+      "fieldName": "线上支付笔数",
+      "fixed": true,
+      "sorted": true,
+      "index": 5
+    },
+    {
+      "field": "onLineFinalMoney",
+      "dataField": "onLineFinalMoney",
+      "fieldName": "线上支付金额",
+      "fixed": true,
+      "sorted": true,
+      "index": 6
+    },
+    {
+      "field": "returnOrderCount",
+      "dataField": "returnOrderCount",
+      "fieldName": "售后笔数",
+      "fixed": true,
+      "sorted": true,
+      "index": 7
+    },
+    {
+      "field": "refundMoney",
+      "dataField": "refundMoney",
+      "fieldName": "售后总金额",
+      "fixed": true,
+      "sorted": true,
+      "index": 8
+    },
+    {
+      "field": "finalRefundMoney",
+      "dataField": "finalRefundMoney",
+      "fieldName": "退款总金额",
+      "fixed": true,
+      "sorted": true,
+      "index": 9
+    }
+  ]
+}

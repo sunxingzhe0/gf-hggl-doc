@@ -1,0 +1,46 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "groupName",
+      "dataField": "groupName",
+      "fieldName": "分组名称",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "nspNum",
+      "dataField": "nspNum",
+      "fieldName": "护工数量",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "sortCode",
+      "dataField": "sortCode",
+      "fieldName": "排序",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    
+    {
+      "field": "state",
+      "dataField": "state",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    }
+  
+  ]
+}

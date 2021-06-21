@@ -1,0 +1,36 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "imageId",
+      "dataField": "imageId",
+      "fieldName": "轮播图",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "sort",
+      "dataField": "sort",
+      "fieldName": "排序",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "status",
+      "dataField": "status",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    }
+  ]
+}

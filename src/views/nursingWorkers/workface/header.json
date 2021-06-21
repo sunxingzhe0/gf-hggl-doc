@@ -1,0 +1,84 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "code",
+      "dataField": "code",
+      "fieldName": "编号",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "title",
+      "dataField": "title",
+      "fieldName": "标题",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "busName",
+      "dataField": "busName",
+      "fieldName": "业务",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "groupNames",
+      "dataField": "groupNames",
+      "fieldName": "分组",
+      "fixed": true,
+      "sorted": true,
+      "index": 6
+    },
+    {
+      "field": "beginDate",
+      "dataField": "beginDate",
+      "fieldName": "开始日期",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "endDate",
+      "dataField": "endDate",
+      "fieldName": "结束日期",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "cycle",
+      "dataField": "cycle",
+      "fieldName": "周期",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "state",
+      "dataField": "state",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "createTime",
+      "dataField": "createTime",
+      "fieldName": "创建时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    }
+  ]
+}

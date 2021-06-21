@@ -1,0 +1,116 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "orderId",
+      "dataField": "orderId",
+      "fieldName": "编号",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "typeName",
+      "dataField": "typeName",
+      "fieldName": "工单类型",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "patientName",
+      "dataField": "patientName",
+      "fieldName": "服务对象",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "patientSex",
+      "dataField": "patientSex",
+      "fieldName": "性别",
+      "fixed": true,
+      "sorted": false,
+      "index": 6
+    },
+    {
+      "field": "patientAge",
+      "dataField": "patientAge",
+      "fieldName": "年龄",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "bedNum",
+      "dataField": "bedNum",
+      "fieldName": "床号",
+      "fixed": true,
+      "sorted": false,
+      "index": 8
+    },
+    {
+      "field": "contactName",
+      "dataField": "contactName",
+      "fieldName": "联系电话",
+      "fixed": true,
+      "sorted": false,
+      "index": 9
+    },
+    {
+      "field": "inHospTime",
+      "dataField": "inHospTime",
+      "fieldName": "入院时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 10
+    },
+    {
+      "field": "schDate",
+      "dataField": "schDate",
+      "fieldName": "护理时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 11
+    },
+    {
+      "field": "content",
+      "dataField": "content",
+      "fieldName": "护理内容",
+      "fixed": true,
+      "sorted": false,
+      "index": 12
+    },
+    {
+      "field": "remark",
+      "dataField": "remark",
+      "fieldName": "备注",
+      "fixed": true,
+      "sorted": false,
+      "index": 13
+    },
+    {
+      "field": "completeTime",
+      "dataField": "completeTime",
+      "fieldName": "执行时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 14
+    },
+    {
+      "field": "executeStatusText",
+      "dataField": "executeStatusText",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 15
+    }
+  ]
+}

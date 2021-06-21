@@ -1,0 +1,76 @@
+{
+  "headers": [
+    {
+      "field": "index",
+      "dataField": "index",
+      "fieldName": "序号",
+      "fixed": true,
+      "sorted": false,
+      "index": 1
+    },
+    {
+      "field": "orderId",
+      "dataField": "orderId",
+      "fieldName": "预约单号",
+      "fixed": true,
+      "sorted": false,
+      "index": 2
+    },
+    {
+      "field": "typeName",
+      "dataField": "typeName",
+      "fieldName": "预约项目",
+      "fixed": true,
+      "sorted": false,
+      "index": 3
+    },
+    {
+      "field": "nurseName",
+      "dataField": "nurseName",
+      "fieldName": "护工姓名",
+      "fixed": true,
+      "sorted": false,
+      "index": 4
+    },
+    {
+      "field": "patientName",
+      "dataField": "patientName",
+      "fieldName": "护理对象",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "paymentMethod",
+      "dataField": "paymentMethod",
+      "fieldName": "付款方式",
+      "fixed": true,
+      "sorted": false,
+      "index": 5
+    },
+    {
+      "field": "serviceType",
+      "dataField": "serviceType",
+      "fieldName": "售后类型",
+      "fixed": true,
+      "sorted": true,
+      "index": 6
+    },
+    {
+      "field": "serviceTime",
+      "dataField": "serviceTime",
+      "fieldName": "售后时间",
+      "fixed": true,
+      "sorted": false,
+      "index": 7
+    },
+    {
+      "field": "serviceStatus",
+      "dataField": "serviceStatus",
+      "fieldName": "状态",
+      "fixed": true,
+      "sorted": false,
+      "index": 8
+    }
+  ]
+}

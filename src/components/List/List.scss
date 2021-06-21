@@ -1,0 +1,36 @@
+.c__list {
+  > .el-table {
+    margin-top: 15px;
+    border: 1px solid #e6e6e6;
+    border-bottom: 0;
+  }
+
+  .table-wrap {
+    will-change: height;
+    transition: height 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  > .c__tool {
+    padding: 15px 0 0 0;
+  }
+
+  .table-wrap .cell {
+    font-size: 16px;
+    color: #666666;
+  }
+  .table-header .cell {
+    font-weight: bold;
+    line-height: 18px;
+    font-size: 14px !important;
+  }
+  .el-table .cell.el-tooltip {
+    font-size: 14px;
+
+    font-weight: normal;
+    color: #333333;
+    padding-left: 10px;
+  }
+  // .el-table__header {
+  //   border-bottom: 1px solid #e6e6e6;
+  // }
+}
